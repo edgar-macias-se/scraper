@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 	
-	"github.com/edgar-macias-se/scraper"  // Ajusta el import según tu estructura
+	"github.com/edgar-macias-se/scraper/internal/scraper"  // Ajusta el import según tu estructura
 )
 
 func main() {
